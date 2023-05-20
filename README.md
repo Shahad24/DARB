@@ -11,10 +11,11 @@ Darb is a platform that provides researchers and those who are seeking knowledge
 - Windows operating system
 
 ### Getting Started 
-The following command runs the demo version of DARB (v0.0.0)
-  ```bash
- cd DARB_Demo
-  DARB.exe
+Download DARB_Demo from [here](https://1drv.ms/u/s!Am8kjUQzMXUggTdQZ9a_fIpWJG_Y?e=QrJJsE) then type the following commands to run the demo version of DARB (v0.0.0)
+```bash
+unzip DARB_Demo
+cd DARB_Demo
+DARB.exe
   ```   
 
 ### Acknowledgement
