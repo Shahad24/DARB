@@ -5,7 +5,7 @@
 </p>
 
 ### Overview 
-Darb is a platform that provides researchers and those who are seeking knowledge in the space industry the chance to learn and discover about space galaxies through generative artificial intelligence. It generate images from pre-existing images and supports collaboration among scientists and those who are interested in the content presented, in addition to trading and sharing unique images produced by the generative artificial intelligence.
+Darb is a platform that provides researchers and those who are seeking knowledge in the space industry the chance to learn and discover about space galaxies through generative artificial intelligence. It generate images from pre-existing images and supports collaboration among scientists and those who are interested in the content presented, in addition to trading and sharing unique images produced by the generative artificial intelligence. This repository exclusively showcases Darb's generative AI (text-to-image part) only.
 
 ### Dependencies
 - Windows operating system
